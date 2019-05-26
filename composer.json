@@ -1,0 +1,10 @@
+{
+    "name": "ketto/smoochapi",
+    "authors": [
+        {
+            "name": "Durgvijay Kashyap",
+            "email": "durgvijay@ketto.org"
+        }
+    ],
+    "require": {}
+}
